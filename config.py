@@ -1,1 +1,1 @@
-token = 'YOUR_DISCORD_BOT_TOKEN'
+config.py code
